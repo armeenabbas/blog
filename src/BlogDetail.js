@@ -8,6 +8,7 @@ const BlogDetail = () => {
     
     <div>
       <Header />
+      {/* // gfg */}
       blog detail - {id}
     </div>
   )
